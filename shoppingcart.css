@@ -1,0 +1,37 @@
+/* #fullcart{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+} */
+.names{
+font-size: large;
+}
+.img{
+    width: 200px;
+    height: 150px;
+    float: left;
+
+}
+.divful{
+    height: 10%;
+    width: 80%;
+    margin-left: 10%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-bottom: black;
+    border-style: solid;
+    margin-top: 4px;
+}
+/* .dt2{
+    float: right;
+}
+.dt3{
+    float: right;
+}
+.dt4{
+    float: right;
+} */
+.divl{
+    height: 10%;
+    width: 100%;
+}
